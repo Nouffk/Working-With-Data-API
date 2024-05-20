@@ -1,38 +1,43 @@
 {
   "menu": [
     {
-      "name": "Greek Salad",
-      "price": 12.99,
+      "id": 1,
+      "title": "Greek Salad",
       "description": "Our delicious salad is served with Feta cheese and peeled cucumber. Includes tomatoes, onions, olives, salt and oregano in the ingredients.",
-      "image": "greekSalad.jpg",
+      "price": 12.99,
+      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/greekSalad.jpg?raw=true",
       "category": "starters"
     },
     {
-      "name": "Bruschetta",
-      "price": 7.99,
+      "id": 2,
+      "title": "Bruschetta",
       "description": "Delicious grilled bread rubbed with garlic and topped with olive oil and salt. Our Bruschetta includes tomato and cheese.",
-      "image": "bruschetta.jpg",
+      "price": 7.99,
+      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/bruschetta.jpg?raw=true",
       "category": "starters"
     },
     {
-      "name": "Grilled Fish",
-      "price": 20.00,
+      "id": 3,
+      "title": "Grilled Fish",
       "description": "Fantastic grilled fish seasoned with salt.",
-      "image": "grilledFish.jpg",
+      "price": 20.00,
+      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/grilledFish.jpg?raw=true",
       "category": "mains"
     },
     {
-      "name": "Pasta",
-      "price": 6.99,
+      "id": 4,
+      "title": "Pasta",
       "description": "Delicious pasta for your delight.",
-      "image": "pasta.jpg",
+      "price": 6.99,
+      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/pasta.jpg?raw=true",
       "category": "mains"      
     },
     {
-      "name": "Lemon Dessert",
-      "price": 4.99,
+      "id": 5,
+      "title": "Lemon Dessert",
       "description": "You can't go wrong with this delicious lemon dessert!",
-      "image": "lemonDessert.jpg",
+      "price": 4.99,
+      "image": "https://github.com/Meta-Mobile-Developer-PC/Working-With-Data-API/blob/main/images/lemonDessert%202.jpg?raw=true",
       "category": "desserts"      
     }
   ]
